@@ -1,0 +1,8 @@
+*.orig
+*.rej
+util.o
+drw.o
+dmenu.o
+stest.o
+dmenu
+config.def.h
